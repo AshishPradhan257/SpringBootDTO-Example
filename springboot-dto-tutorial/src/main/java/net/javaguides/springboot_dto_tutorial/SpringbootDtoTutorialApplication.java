@@ -56,6 +56,6 @@ public class SpringbootDtoTutorialApplication implements CommandLineRunner {
         user2.setLocation(location);
         userRepository.save(user2);
 
-
     }
+    
 }
